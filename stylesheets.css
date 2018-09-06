@@ -1,0 +1,33 @@
+body {
+    background-color: coral;
+}
+
+p {
+    /*color: #009f81;*/
+    font-size: 18px;
+}
+
+h1 {
+    font-family: oswaldlight, sans-serif;
+    letter-spacing: .025em;
+    text-transform: uppercase;
+}
+
+img {
+    max-width: 70%;
+    height: auto;
+}
+
+.long-paragraph {
+    font-family: 'Gaegu', cursive;
+}
+
+.navbar-font {
+    font-family: 'Oxygen', sans-serif;
+    color: #DC143C;
+}
+
+#testimonial {
+        font-size: 80px;
+        background-color: cornflowerblue;
+}
