@@ -14,7 +14,7 @@ h1 {
 }
 
 img {
-    max-width: 70%;
+    max-width: 100%;
     height: auto;
 }
 
@@ -30,4 +30,10 @@ img {
 #testimonial {
         font-size: 80px;
         background-color: cornflowerblue;
+}
+
+.btn-center {
+        width: 25%;
+        margin-left: auto;
+        margin-right: auto;
 }
